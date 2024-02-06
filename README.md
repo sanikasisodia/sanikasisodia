@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sanika Sisodia</h1>
 <h3 align="center">Computer Science Student</h3>
-iudshqUWHDQIUWHDQIUWHDQIUWHDFQIUWHFIUWFHQIUWFHWFUHIUWFHQIWUHFIQUWHFIQUWHF
+
+
 - 🔭 I’m currently **A second year computer science student.**
 
 - 🌱 I’m currently learning **Golang**
