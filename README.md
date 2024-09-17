@@ -2,7 +2,7 @@
 <h3 align="center">Computer Science Student</h3>
 
 
-- 🔭 I’m currently **A second year computer science student.**
+- 🔭 I’m currently **A third year computer science student.**
 
 - 🌱 I’m currently learning **Golang**
 
